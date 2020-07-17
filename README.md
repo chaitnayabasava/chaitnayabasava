@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on building a visual search engine at Stylumia
+- 🌱 I’m currently learning how to stay focused
+- 💬 Ask me about movies, games and coding
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/chaitanya.basava/" target="_blank">Fabebook</a> (or) chaitanya.basava@gmail.com
+- 📝 <a href="https://drive.google.com/file/d/130eRphuix8IJ9bgYqCuEZlu-Q1veyxaC/view?usp=sharing" target="_blank">Resume</a>
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
