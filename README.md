@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on building a visual search engine at Stylumia
-- 🌱 I’m currently learning how to stay focused
+- 🌱 I’m currently learning how to build a chatting application using MEAN stack
 - 💬 Ask me about movies, games and coding
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/chaitanya.basava/" target="_blank">Fabebook</a> (or) chaitanya.basava@gmail.com
 - 📝 <a href="https://drive.google.com/file/d/1IDv9h2DlkU3zgNZY_Y6mNGsJ4uIpqCxb/view?usp=sharing" target="_blank">Resume</a>
