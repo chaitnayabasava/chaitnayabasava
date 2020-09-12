@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Flutter <img src="https://pbs.twimg.com/profile_images/1187814172307800064/MhnwJbxw_400x400.jpg" width=15 height=15>
 - 💬 Ask me about movies, games and coding
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/chaitanya.basava/" target="_blank">Fabebook</a> (or) chaitanya.basava@gmail.com
-- 📝 <a href="https://drive.google.com/file/d/1IDv9h2DlkU3zgNZY_Y6mNGsJ4uIpqCxb/view?usp=sharing" target="_blank">Resume</a>
+- 📝 <a href="https://drive.google.com/file/d/13em683_mBolk9Il94YXeDH7nQ3Z3nL5C/view?usp=sharing" target="_blank">Resume</a>
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
