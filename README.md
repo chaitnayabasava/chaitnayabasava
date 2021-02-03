@@ -1,9 +1,9 @@
 ### Hi there 👋, This is Chaitanya
 
-- 🔭 I’m currently working on building an image based search engine at Stylumia
-- 💬 Ask me about movies, games and coding
+- 🔭 I’m currently working on building an Image similarity based search engine at Stylumia
+- 💬 Ask me about **movies**, **video games** and **coding**
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/chaitanya.basava/" target="_blank">Fabebook</a> (or) chaitanya.basava@gmail.com
-- 📝 <a href="https://drive.google.com/file/d/13em683_mBolk9Il94YXeDH7nQ3Z3nL5C/view?usp=sharing" target="_blank">Resume</a>
+<!-- - 📝 <a href="https://drive.google.com/file/d/13em683_mBolk9Il94YXeDH7nQ3Z3nL5C/view?usp=sharing" target="_blank">Resume</a> -->
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
