@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaitanya.basava@gmail.com)](chaitanya.basava@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
 
 ### Hi there 👋, I am Chaitanya Basava
 
