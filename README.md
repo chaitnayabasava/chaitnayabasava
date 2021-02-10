@@ -1,9 +1,11 @@
-### Hi there 👋, This is Chaitanya
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:chaitanya.basava@gmail.com)](chaitanya.basava@gmail.com)
+
+### Hi there 👋, I am Chaitanya Basava
 
 - 🔭 I’m currently working on building an Image similarity based search engine at Stylumia
 - 💬 Ask me about **movies**, **video games** and **coding**
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/" target="_blank">LinkedIn</a>, <a href="https://www.facebook.com/chaitanya.basava/" target="_blank">Fabebook</a> (or) chaitanya.basava@gmail.com
-<!-- - 📝 <a href="https://drive.google.com/file/d/13em683_mBolk9Il94YXeDH7nQ3Z3nL5C/view?usp=sharing" target="_blank">Resume</a> -->
+- 📝 <a href="https://drive.google.com/file/d/1K9Pvxo2Ec9wLpZMXN0-Y-6zl5K7RkV6s/view?usp=sharing" target="_blank">Resume</a>
+
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
