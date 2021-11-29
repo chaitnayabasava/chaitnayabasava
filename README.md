@@ -1,10 +1,11 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-s-4a20819a/)](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
-
 ### Hi there 👋, I am Chaitanya Basava
 
-- 🔭 I’m currently working on building an Image similarity based search engine at Stylumia
+#### I'm a Data science engineer at Stylumia.
+
+- 🔭 Currently working on building an Image similarity based search engine
 - 💬 Ask me about **movies**, **video games** and **coding**
-- 📝 <a href="https://drive.google.com/file/d/1K9Pvxo2Ec9wLpZMXN0-Y-6zl5K7RkV6s/view?usp=sharing" target="_blank">Resume</a>
+- 📝 <a href="https://drive.google.com/file/d/1RerlZojd0hoQrBvK0cUUxNJHzGnVT1YU/view?usp=sharing" target="_blank">Resume</a>
+- 📫 How to reach me: @[LinkedIn](https://www.linkedin.com/in/basava-sai-naga-viswa-chaitanya-665083172/)
 
 <!--
 **chaitnayabasava/chaitnayabasava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
